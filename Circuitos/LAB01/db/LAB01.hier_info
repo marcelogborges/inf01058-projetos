@@ -1,0 +1,58 @@
+|LAB01
+Cout <= FA:inst2.Cout
+A[0] => HA:inst3.A
+A[1] => FA:inst.A
+A[2] => FA:inst1.A
+A[3] => FA:inst2.A
+B[0] => HA:inst3.B
+B[1] => FA:inst.B
+B[2] => FA:inst1.B
+B[3] => FA:inst2.B
+S[0] <= HA:inst3.S
+S[1] <= FA:inst.S
+S[2] <= FA:inst1.S
+S[3] <= FA:inst2.S
+
+
+|LAB01|FA:inst2
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB01|FA:inst1
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB01|FA:inst
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB01|HA:inst3
+S <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+A => inst11.IN0
+A => inst.IN0
+B => inst11.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
