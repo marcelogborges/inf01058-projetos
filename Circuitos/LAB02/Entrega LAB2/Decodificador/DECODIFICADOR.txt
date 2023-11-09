@@ -1,0 +1,13 @@
+DECODIFICADOR
+
+Consumo de Área:
+Total pins: 20
+Total logic elements: 16
+
+Atraso crítico: 
+Propagation delay: 8592 ns
+Portas: C e S0
+Transição: Fall,RISE
+
+
+Mudei o nome do projeto, então .bdf e o .bsf ficaram com nomes diferentes.

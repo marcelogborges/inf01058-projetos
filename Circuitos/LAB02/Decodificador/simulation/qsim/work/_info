@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/leonardo/Circuitos/LAB02/Decodificador/simulation/qsim
+vdecod4x16
+Z1 !s100 LcBLlSRooXh<S1?UZQd>72
+Z2 I93CLRU>mgG_;08z1e>TG;2
+Z3 VZIFE8i<N;KOXjnX9gSj`n2
+Z4 d/home/leonardo/Circuitos/LAB02/Decodificador/simulation/qsim
+Z5 w1699325280
+Z6 8decod4x16.vo
+Z7 Fdecod4x16.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|decod4x16.vo|
+Z10 o-work work -O0
+!i10b 1
+!s85 0
+Z11 !s108 1699325280.796145
+Z12 !s107 decod4x16.vo|
+!s101 -O0
+vdecod4x16_vlg_check_tst
+!i10b 1
+Z13 !s100 `eR0AlS?lXb=2?2[kd`m=3
+Z14 Iod=H?GDOCoQbRc;P[5lhl0
+Z15 V5`YkE[T?k7Wn@n<`XPc<E2
+R4
+Z16 w1699325277
+Z17 8decod4x16.vt
+Z18 Fdecod4x16.vt
+L0 63
+R8
+r1
+!s85 0
+31
+Z19 !s108 1699325280.821959
+Z20 !s107 decod4x16.vt|
+Z21 !s90 -work|work|decod4x16.vt|
+!s101 -O0
+R10
+vdecod4x16_vlg_sample_tst
+!i10b 1
+Z22 !s100 nU@G=?z0Ge@5;WQfLj6P40
+Z23 I<B;@TKA<b<PRjWEC>fP;_0
+Z24 V=7_]`<^NVIGhH@j_GlYZj1
+R4
+R16
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+vdecod4x16_vlg_vec_tst
+!i10b 1
+!s100 IB^22eca69MmB8UAEBeU@1
+IkFh^Xfhbe6XYb_VFPJ97H3
+Z25 V6mC3J3iz`TSaGEzzFH@KB0
+R4
+R16
+R17
+R18
+Z26 L0 563
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10

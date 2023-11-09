@@ -1,0 +1,10 @@
+MUX
+
+Consumo de Área:
+Total pins: 25
+Total logic elements: 8
+
+Atraso crítico: 
+Propagation delay: 7511 ns
+Portas: B[6] e Z[6]
+Transição: Fall,FALL

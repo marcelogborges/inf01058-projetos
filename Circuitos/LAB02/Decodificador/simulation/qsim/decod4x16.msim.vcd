@@ -1,0 +1,284 @@
+$comment
+	File created using the following command:
+		vcd file decod4x16.msim.vcd -direction
+$end
+$date
+	Mon Nov  6 23:48:01 2023
+$end
+$version
+	ModelSim Version 10.1d
+$end
+$timescale
+	1ps
+$end
+$scope module decod4x16_vlg_vec_tst $end
+$var reg 1 ! A $end
+$var reg 1 " B $end
+$var reg 1 # C $end
+$var reg 1 $ D $end
+$var wire 1 % S0 $end
+$var wire 1 & S1 $end
+$var wire 1 ' S2 $end
+$var wire 1 ( S3 $end
+$var wire 1 ) S4 $end
+$var wire 1 * S5 $end
+$var wire 1 + S6 $end
+$var wire 1 , S7 $end
+$var wire 1 - S8 $end
+$var wire 1 . S9 $end
+$var wire 1 / S10 $end
+$var wire 1 0 S11 $end
+$var wire 1 1 S12 $end
+$var wire 1 2 S13 $end
+$var wire 1 3 S14 $end
+$var wire 1 4 S15 $end
+$var wire 1 5 sampler $end
+$scope module i1 $end
+$var wire 1 6 gnd $end
+$var wire 1 7 vcc $end
+$var wire 1 8 unknown $end
+$var tri1 1 9 devclrn $end
+$var tri1 1 : devpor $end
+$var tri1 1 ; devoe $end
+$var wire 1 < S15~output_o $end
+$var wire 1 = S14~output_o $end
+$var wire 1 > S13~output_o $end
+$var wire 1 ? S12~output_o $end
+$var wire 1 @ S11~output_o $end
+$var wire 1 A S10~output_o $end
+$var wire 1 B S9~output_o $end
+$var wire 1 C S8~output_o $end
+$var wire 1 D S7~output_o $end
+$var wire 1 E S6~output_o $end
+$var wire 1 F S5~output_o $end
+$var wire 1 G S4~output_o $end
+$var wire 1 H S3~output_o $end
+$var wire 1 I S2~output_o $end
+$var wire 1 J S1~output_o $end
+$var wire 1 K S0~output_o $end
+$var wire 1 L C~input_o $end
+$var wire 1 M A~input_o $end
+$var wire 1 N B~input_o $end
+$var wire 1 O D~input_o $end
+$var wire 1 P inst15~0_combout $end
+$var wire 1 Q inst15~1_combout $end
+$var wire 1 R inst15~2_combout $end
+$var wire 1 S inst15~3_combout $end
+$var wire 1 T inst15~4_combout $end
+$var wire 1 U inst15~5_combout $end
+$var wire 1 V inst15~6_combout $end
+$var wire 1 W inst15~7_combout $end
+$var wire 1 X inst15~8_combout $end
+$var wire 1 Y inst15~9_combout $end
+$var wire 1 Z inst15~10_combout $end
+$var wire 1 [ inst15~11_combout $end
+$var wire 1 \ inst15~12_combout $end
+$var wire 1 ] inst15~13_combout $end
+$var wire 1 ^ inst15~14_combout $end
+$var wire 1 _ inst15~15_combout $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+x%
+x&
+x'
+x(
+x)
+x*
+x+
+x,
+x-
+x.
+x/
+x0
+x1
+x2
+x3
+x4
+x5
+06
+17
+x8
+19
+1:
+1;
+x<
+x=
+x>
+x?
+x@
+xA
+xB
+xC
+xD
+xE
+xF
+xG
+xH
+xI
+xJ
+xK
+0L
+0M
+0N
+0O
+xP
+xQ
+xR
+xS
+xT
+xU
+xV
+xW
+xX
+xY
+xZ
+x[
+x\
+x]
+x^
+x_
+$end
+#3255
+0P
+#3257
+0R
+0U
+#3258
+0Q
+0S
+#3260
+0W
+#3261
+0T
+0V
+#3433
+0X
+#3434
+0Y
+#3442
+0]
+#3443
+0\
+#3634
+0^
+#3637
+0Z
+#3903
+1_
+#3911
+0[
+#5803
+0E
+0+
+#5808
+0I
+0'
+#5839
+0>
+02
+#5844
+0<
+04
+#5883
+0C
+0-
+#5884
+0@
+00
+#5911
+0A
+0/
+#5927
+0=
+03
+#6063
+0?
+01
+#6194
+0F
+0*
+#6229
+0J
+0&
+#6257
+0B
+0.
+#6268
+0H
+0(
+#6435
+0D
+0,
+#6573
+0G
+0)
+#7740
+1K
+1%
+#300000
+1"
+1$
+05
+#300670
+1N
+#300680
+1O
+#303661
+0_
+#303814
+1U
+#306466
+1A
+1/
+#307586
+0K
+0%
+#600000
+1!
+1#
+15
+#600670
+1M
+#600690
+1L
+#603931
+0U
+#604211
+1P
+#606585
+0A
+0/
+#606769
+1<
+14
+#900000
+0"
+0$
+0!
+0#
+05
+#900832
+0M
+0N
+#900842
+0O
+#900852
+0L
+#904097
+0P
+#904755
+1_
+#906686
+0<
+04
+#908592
+1K
+1%
+#1000000
