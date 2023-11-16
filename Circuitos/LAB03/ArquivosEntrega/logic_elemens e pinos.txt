@@ -1,0 +1,4 @@
+logic elements: 11 / 14,400 (<1%)
+pinos: 16 / 81 ( 20 % )
+
+Atraso: 10.438

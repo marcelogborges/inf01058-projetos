@@ -1,0 +1,251 @@
+|LAB03
+flag_Z <= inst1.DB_MAX_OUTPUT_PORT_TYPE
+S[0] <= MUX421:inst9.S[0]
+S[1] <= MUX421:inst9.S[1]
+S[2] <= MUX421:inst9.S[2]
+S[3] <= MUX421:inst9.S[3]
+op[0] => MUX421:inst7.SEL
+op[0] => MUX421:inst8.SEL
+op[1] => MUX421:inst9.SEL
+A[0] => RCA:inst.A[0]
+A[0] => inst4[0].IN0
+A[0] => inst5[0].IN1
+A[0] => inst11[0].IN0
+A[1] => RCA:inst.A[1]
+A[1] => inst4[1].IN0
+A[1] => inst5[1].IN1
+A[1] => inst11[1].IN0
+A[2] => RCA:inst.A[2]
+A[2] => inst4[2].IN0
+A[2] => inst5[2].IN1
+A[2] => inst11[2].IN0
+A[3] => RCA:inst.A[3]
+A[3] => inst4[3].IN0
+A[3] => inst5[3].IN1
+A[3] => inst11[3].IN0
+B[0] => RCA:inst.B[0]
+B[0] => inst4[0].IN1
+B[0] => inst5[0].IN0
+B[1] => RCA:inst.B[1]
+B[1] => inst4[1].IN1
+B[1] => inst5[1].IN0
+B[2] => RCA:inst.B[2]
+B[2] => inst4[2].IN1
+B[2] => inst5[2].IN0
+B[3] => RCA:inst.B[3]
+B[3] => inst4[3].IN1
+B[3] => inst5[3].IN0
+flag_N <= MUX421:inst9.S[3]
+
+
+|LAB03|MUX421:inst9
+S[0] <= MUX21:inst.S
+S[1] <= MUX21:inst1.S
+S[2] <= MUX21:inst2.S
+S[3] <= MUX21:inst3.S
+A[0] => MUX21:inst.A
+A[1] => MUX21:inst1.A
+A[2] => MUX21:inst2.A
+A[3] => MUX21:inst3.A
+B[0] => MUX21:inst.B
+B[1] => MUX21:inst1.B
+B[2] => MUX21:inst2.B
+B[3] => MUX21:inst3.B
+SEL => MUX21:inst.SEL
+SEL => MUX21:inst1.SEL
+SEL => MUX21:inst2.SEL
+SEL => MUX21:inst3.SEL
+
+
+|LAB03|MUX421:inst9|MUX21:inst
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst9|MUX21:inst1
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst9|MUX21:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst9|MUX21:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst7
+S[0] <= MUX21:inst.S
+S[1] <= MUX21:inst1.S
+S[2] <= MUX21:inst2.S
+S[3] <= MUX21:inst3.S
+A[0] => MUX21:inst.A
+A[1] => MUX21:inst1.A
+A[2] => MUX21:inst2.A
+A[3] => MUX21:inst3.A
+B[0] => MUX21:inst.B
+B[1] => MUX21:inst1.B
+B[2] => MUX21:inst2.B
+B[3] => MUX21:inst3.B
+SEL => MUX21:inst.SEL
+SEL => MUX21:inst1.SEL
+SEL => MUX21:inst2.SEL
+SEL => MUX21:inst3.SEL
+
+
+|LAB03|MUX421:inst7|MUX21:inst
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst7|MUX21:inst1
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst7|MUX21:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst7|MUX21:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|RCA:inst
+Cout <= FA:inst2.Cout
+A[0] => HA:inst3.A
+A[1] => FA:inst.A
+A[2] => FA:inst1.A
+A[3] => FA:inst2.A
+B[0] => HA:inst3.B
+B[1] => FA:inst.B
+B[2] => FA:inst1.B
+B[3] => FA:inst2.B
+S[0] <= HA:inst3.S
+S[1] <= FA:inst.S
+S[2] <= FA:inst1.S
+S[3] <= FA:inst2.S
+
+
+|LAB03|RCA:inst|FA:inst2
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB03|RCA:inst|FA:inst1
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB03|RCA:inst|FA:inst
+S <= inst.DB_MAX_OUTPUT_PORT_TYPE
+A => inst1.IN0
+A => inst3.IN0
+B => inst1.IN1
+B => inst3.IN1
+Cin => inst.IN1
+Cin => inst2.IN0
+Cout <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB03|RCA:inst|HA:inst3
+S <= inst11.DB_MAX_OUTPUT_PORT_TYPE
+A => inst11.IN0
+A => inst.IN0
+B => inst11.IN1
+B => inst.IN1
+Cout <= inst.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|LAB03|MUX421:inst8
+S[0] <= MUX21:inst.S
+S[1] <= MUX21:inst1.S
+S[2] <= MUX21:inst2.S
+S[3] <= MUX21:inst3.S
+A[0] => MUX21:inst.A
+A[1] => MUX21:inst1.A
+A[2] => MUX21:inst2.A
+A[3] => MUX21:inst3.A
+B[0] => MUX21:inst.B
+B[1] => MUX21:inst1.B
+B[2] => MUX21:inst2.B
+B[3] => MUX21:inst3.B
+SEL => MUX21:inst.SEL
+SEL => MUX21:inst1.SEL
+SEL => MUX21:inst2.SEL
+SEL => MUX21:inst3.SEL
+
+
+|LAB03|MUX421:inst8|MUX21:inst
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst8|MUX21:inst1
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst8|MUX21:inst2
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
+|LAB03|MUX421:inst8|MUX21:inst3
+S <= inst2.DB_MAX_OUTPUT_PORT_TYPE
+B => inst1.IN0
+SEL => inst1.IN1
+SEL => inst4.IN0
+A => inst.IN0
+
+
