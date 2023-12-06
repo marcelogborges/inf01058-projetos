@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\aluno\Desktop\inf01058-projetos-main\Circuitos\LAB03\simulation\qsim
+vLAB03
+Z1 !s100 Ndg12[4Z[``WH`gk=9H4g0
+Z2 I6Sk?41]h9ZVM4]13>WRN^3
+Z3 VDAPCD0G]B_iIK=?NJAdIF0
+Z4 dC:\Users\aluno\Desktop\inf01058-projetos-main\Circuitos\LAB03\simulation\qsim
+Z5 w1700147166
+Z6 8LAB03.vo
+Z7 FLAB03.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|LAB03.vo|
+Z10 o-work work -O0
+Z11 n@l@a@b03
+!i10b 1
+!s85 0
+Z12 !s108 1700147167.567000
+Z13 !s107 LAB03.vo|
+!s101 -O0
+vLAB03_vlg_check_tst
+!i10b 1
+Z14 !s100 MA^zIDj:2o;zLEH15ETnm1
+Z15 IZMXGf]fCDd7eHDd7CKa[`0
+Z16 VioEg2TLY7[gI@jg02k_^K3
+R4
+Z17 w1700147164
+Z18 8Waveform.vwf.vt
+Z19 FWaveform.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z20 !s108 1700147167.660000
+Z21 !s107 Waveform.vwf.vt|
+Z22 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z23 n@l@a@b03_vlg_check_tst
+vLAB03_vlg_sample_tst
+!i10b 1
+Z24 !s100 [bZ]8c[zU2ek@56QN[B;P0
+Z25 I?<Wl@cc1IhHi;dzz_6jMJ2
+Z26 VnD7nLmUdmQL:d8Na<k0381
+R4
+R17
+R18
+R19
+L0 29
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z27 n@l@a@b03_vlg_sample_tst
+vLAB03_vlg_vec_tst
+!i10b 1
+!s100 9<2D`iD^8JT[Nd12dNXPT0
+IgEzVUd^YVYYESO@A:RdIz2
+Z28 VoO`A^5?X?VH2[H;eL[nRW0
+R4
+R17
+R18
+R19
+Z29 L0 263
+R8
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R10
+Z30 n@l@a@b03_vlg_vec_tst

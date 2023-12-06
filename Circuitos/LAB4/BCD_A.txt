@@ -1,0 +1,10 @@
+BCD_A
+
+Consumo de Área:
+Total pins: 5
+Total logic elements: 1
+
+Atraso crítico: 
+Propagation delay: 8073 ns
+Portas: A
+Transição: Fall,RISE

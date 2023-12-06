@@ -1,4 +1,3 @@
-/* Simulator = ModelSim */
 /*
 WARNING: Do NOT edit the input and output ports in this file in a text
 editor if you plan to continue editing the block that represents it in
@@ -238,7 +237,10 @@ TRANSITION_LIST("A[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 140.0;
+		LEVEL 1 FOR 360.0;
+		LEVEL 0 FOR 260.0;
+		LEVEL 1 FOR 240.0;
 	}
 }
 
@@ -248,7 +250,10 @@ TRANSITION_LIST("A[2]")
 	{
 		REPEAT = 1;
 		LEVEL 1 FOR 140.0;
-		LEVEL 0 FOR 860.0;
+		LEVEL 0 FOR 180.0;
+		LEVEL 1 FOR 180.0;
+		LEVEL 0 FOR 260.0;
+		LEVEL 1 FOR 240.0;
 	}
 }
 
@@ -257,7 +262,10 @@ TRANSITION_LIST("A[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 180.0;
+		LEVEL 0 FOR 260.0;
+		LEVEL 1 FOR 240.0;
 	}
 }
 
@@ -266,7 +274,10 @@ TRANSITION_LIST("A[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 180.0;
+		LEVEL 0 FOR 260.0;
+		LEVEL 1 FOR 240.0;
 	}
 }
 
@@ -275,7 +286,9 @@ TRANSITION_LIST("B[3]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 140.0;
+		LEVEL 1 FOR 840.0;
+		LEVEL 0 FOR 20.0;
 	}
 }
 
@@ -330,7 +343,8 @@ TRANSITION_LIST("op[1]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 620.0;
+		LEVEL 1 FOR 380.0;
 	}
 }
 
@@ -339,7 +353,10 @@ TRANSITION_LIST("op[0]")
 	NODE
 	{
 		REPEAT = 1;
-		LEVEL 0 FOR 1000.0;
+		LEVEL 0 FOR 320.0;
+		LEVEL 1 FOR 300.0;
+		LEVEL 0 FOR 300.0;
+		LEVEL 1 FOR 80.0;
 	}
 }
 
@@ -383,7 +400,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "A";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 0;
 	TREE_LEVEL = 0;
 	CHILDREN = 1, 2, 3, 4;
@@ -393,7 +410,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "A[3]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 1;
 	TREE_LEVEL = 1;
 	PARENT = 0;
@@ -403,7 +420,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "A[2]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 2;
 	TREE_LEVEL = 1;
 	PARENT = 0;
@@ -413,7 +430,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "A[1]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 3;
 	TREE_LEVEL = 1;
 	PARENT = 0;
@@ -423,7 +440,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "A[0]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 4;
 	TREE_LEVEL = 1;
 	PARENT = 0;
@@ -433,7 +450,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "B";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 5;
 	TREE_LEVEL = 0;
 	CHILDREN = 6, 7, 8, 9;
@@ -443,7 +460,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "B[3]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 6;
 	TREE_LEVEL = 1;
 	PARENT = 5;
@@ -453,7 +470,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "B[2]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 7;
 	TREE_LEVEL = 1;
 	PARENT = 5;
@@ -463,7 +480,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "B[1]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 8;
 	TREE_LEVEL = 1;
 	PARENT = 5;
@@ -473,7 +490,7 @@ DISPLAY_LINE
 {
 	CHANNEL = "B[0]";
 	EXPAND_STATUS = COLLAPSED;
-	RADIX = Unsigned;
+	RADIX = Hexadecimal;
 	TREE_INDEX = 9;
 	TREE_LEVEL = 1;
 	PARENT = 5;
