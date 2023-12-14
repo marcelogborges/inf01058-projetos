@@ -1,5 +1,0 @@
-|DIVFREQ
-CLK_OUT <= inst78.DB_MAX_OUTPUT_PORT_TYPE
-CLK_IN => inst.CLK
-
-

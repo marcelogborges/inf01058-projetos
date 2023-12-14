@@ -18,6 +18,9 @@ SE <= BCD_E:inst5.E
 SF <= BCD_F:inst6.F
 SG <= BCD_G:inst8.G_out
 flag_Z <= LAB03:inst.flag_Z
+CLK_OUT <= DIVFREQ:inst9.CLK_OUT
+CLK_IN => DIVFREQ:inst9.CLK_IN
+RST => ~NO_FANOUT~
 
 
 |ConversorBCD|LAB03:inst
@@ -369,5 +372,10 @@ BCD_in[2] => inst3.IN1
 BCD_in[2] => inst6.IN0
 BCD_in[3] => inst5.IN0
 BCD_in[3] => inst3.IN0
+
+
+|ConversorBCD|DIVFREQ:inst9
+CLK_OUT <= inst78.DB_MAX_OUTPUT_PORT_TYPE
+CLK_IN => inst.CLK
 
 

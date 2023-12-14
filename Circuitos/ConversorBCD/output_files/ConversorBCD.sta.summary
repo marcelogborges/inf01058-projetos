@@ -2,4 +2,940 @@
 TimeQuest Timing Analyzer Summary
 ------------------------------------------------------------
 
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst63'
+Slack : -0.067
+TNS   : -0.067
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst67'
+Slack : -0.066
+TNS   : -0.066
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst'
+Slack : -0.062
+TNS   : -0.062
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst54'
+Slack : -0.048
+TNS   : -0.048
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst64'
+Slack : -0.048
+TNS   : -0.048
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst68'
+Slack : -0.047
+TNS   : -0.047
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst72'
+Slack : -0.042
+TNS   : -0.042
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst74'
+Slack : -0.024
+TNS   : -0.024
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst76'
+Slack : -0.022
+TNS   : -0.022
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst60'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst56'
+Slack : -0.019
+TNS   : -0.019
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst62'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst70'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'CLK_IN'
+Slack : 0.119
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst61'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst75'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst69'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst55'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst57'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst65'
+Slack : 0.140
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst71'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst73'
+Slack : 0.148
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst59'
+Slack : 0.152
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst66'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst77'
+Slack : 0.210
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'DIVFREQ:inst9|inst58'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst58'
+Slack : -0.080
+TNS   : -0.080
+
+Type  : Slow 1200mV 85C Model Hold 'CLK_IN'
+Slack : -0.048
+TNS   : -0.048
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst70'
+Slack : -0.046
+TNS   : -0.046
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst66'
+Slack : -0.028
+TNS   : -0.028
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst56'
+Slack : -0.002
+TNS   : -0.002
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst76'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst60'
+Slack : 0.008
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst72'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst74'
+Slack : 0.011
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst54'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst62'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst64'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst68'
+Slack : 0.028
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst59'
+Slack : 0.030
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst71'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst73'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst55'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst65'
+Slack : 0.042
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst57'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst69'
+Slack : 0.045
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst61'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst75'
+Slack : 0.047
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst'
+Slack : 0.145
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst63'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst67'
+Slack : 0.149
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'DIVFREQ:inst9|inst77'
+Slack : 0.445
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'CLK_IN'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst54'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst55'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst56'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst57'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst58'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst59'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst60'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst61'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst62'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst63'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst64'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst65'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst66'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst67'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst68'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst69'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst70'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst71'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst72'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst73'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst74'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst75'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst76'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'DIVFREQ:inst9|inst77'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst63'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst67'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst72'
+Slack : 0.026
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst54'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst64'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst68'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst74'
+Slack : 0.048
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst60'
+Slack : 0.049
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst76'
+Slack : 0.050
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst56'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst62'
+Slack : 0.114
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst61'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst75'
+Slack : 0.173
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst69'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst55'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst57'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst65'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst70'
+Slack : 0.180
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst71'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst73'
+Slack : 0.185
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst59'
+Slack : 0.189
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst66'
+Slack : 0.205
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'CLK_IN'
+Slack : 0.237
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst58'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'DIVFREQ:inst9|inst77'
+Slack : 0.297
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'CLK_IN'
+Slack : -0.127
+TNS   : -0.127
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst58'
+Slack : -0.080
+TNS   : -0.080
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst70'
+Slack : -0.055
+TNS   : -0.055
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst66'
+Slack : -0.044
+TNS   : -0.044
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst56'
+Slack : -0.025
+TNS   : -0.025
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst76'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst60'
+Slack : -0.017
+TNS   : -0.017
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst74'
+Slack : -0.015
+TNS   : -0.015
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst72'
+Slack : -0.010
+TNS   : -0.010
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst68'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst54'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst64'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst62'
+Slack : 0.013
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst59'
+Slack : 0.023
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst71'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst73'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst55'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst65'
+Slack : 0.032
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst57'
+Slack : 0.034
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst69'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst61'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst75'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst'
+Slack : 0.134
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst63'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst67'
+Slack : 0.138
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'DIVFREQ:inst9|inst77'
+Slack : 0.398
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'CLK_IN'
+Slack : -3.000
+TNS   : -4.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst54'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst55'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst56'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst57'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst58'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst59'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst60'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst61'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst62'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst63'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst64'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst65'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst66'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst67'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst68'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst69'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst70'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst71'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst72'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst73'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst74'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst75'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst76'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst77'
+Slack : -1.285
+TNS   : -1.285
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst54'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst64'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst68'
+Slack : 0.235
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst63'
+Slack : 0.242
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst67'
+Slack : 0.244
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst'
+Slack : 0.246
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst72'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst76'
+Slack : 0.248
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst74'
+Slack : 0.249
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst56'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst60'
+Slack : 0.252
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst62'
+Slack : 0.289
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst70'
+Slack : 0.321
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'CLK_IN'
+Slack : 0.332
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst61'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst75'
+Slack : 0.353
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst69'
+Slack : 0.359
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst66'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst71'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst73'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst55'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst65'
+Slack : 0.361
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst57'
+Slack : 0.362
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst59'
+Slack : 0.368
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst58'
+Slack : 0.392
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'DIVFREQ:inst9|inst77'
+Slack : 0.626
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'CLK_IN'
+Slack : -0.056
+TNS   : -0.056
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst58'
+Slack : -0.051
+TNS   : -0.051
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst70'
+Slack : -0.041
+TNS   : -0.041
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst59'
+Slack : -0.013
+TNS   : -0.013
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst66'
+Slack : -0.011
+TNS   : -0.011
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst62'
+Slack : -0.009
+TNS   : -0.009
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst57'
+Slack : -0.007
+TNS   : -0.007
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst55'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst65'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst71'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst73'
+Slack : -0.006
+TNS   : -0.006
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst69'
+Slack : -0.004
+TNS   : -0.004
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst61'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst75'
+Slack : 0.001
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst72'
+Slack : 0.002
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst56'
+Slack : 0.003
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst76'
+Slack : 0.007
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst60'
+Slack : 0.009
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst74'
+Slack : 0.012
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst54'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst64'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst68'
+Slack : 0.019
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst'
+Slack : 0.043
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst63'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst67'
+Slack : 0.046
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'DIVFREQ:inst9|inst77'
+Slack : 0.208
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'CLK_IN'
+Slack : -3.000
+TNS   : -4.093
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst54'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst55'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst56'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst57'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst58'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst59'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst60'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst61'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst62'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst63'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst64'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst65'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst66'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst67'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst68'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst69'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst70'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst71'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst72'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst73'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst74'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst75'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst76'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'DIVFREQ:inst9|inst77'
+Slack : -1.000
+TNS   : -1.000
+
 ------------------------------------------------------------
