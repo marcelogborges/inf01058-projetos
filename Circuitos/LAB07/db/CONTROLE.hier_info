@@ -1,0 +1,47 @@
+|CONTROLE
+Cg_REM <= inst34.DB_MAX_OUTPUT_PORT_TYPE
+T[0] => inst10.IN1
+T[1] => inst6.IN0
+T[2] => inst8.IN0
+T[2] => inst28.IN0
+T[3] => inst18.IN0
+T[3] => inst11.IN0
+T[4] => inst9.IN0
+T[4] => inst15.IN0
+T[4] => inst22.IN0
+T[5] => inst13.IN0
+T[6] => inst14.IN0
+T[7] => inst34.IN0
+T[7] => inst.IN1
+e[0] => ~NO_FANOUT~
+e[1] => ~NO_FANOUT~
+e[2] => inst12.IN0
+e[3] => inst12.IN3
+e[4] => inst12.IN1
+e[5] => inst12.IN2
+e[6] => inst15.IN1
+e[7] => ~NO_FANOUT~
+e[8] => inst19.IN2
+e[9] => inst20.IN0
+e[9] => inst24.IN0
+e[10] => inst21.IN0
+e[10] => inst25.IN0
+e[11] => ~NO_FANOUT~
+e[12] => ~NO_FANOUT~
+e[13] => ~NO_FANOUT~
+e[14] => ~NO_FANOUT~
+e[15] => ~NO_FANOUT~
+N => inst20.IN1
+N => inst26.IN0
+Z => inst21.IN1
+Z => inst27.IN0
+Cg_RDM <= inst33.DB_MAX_OUTPUT_PORT_TYPE
+Cg_RI <= inst7.DB_MAX_OUTPUT_PORT_TYPE
+Cg_AC <= inst16.DB_MAX_OUTPUT_PORT_TYPE
+Cg_PC <= inst22.DB_MAX_OUTPUT_PORT_TYPE
+Inc_PC <= inst32.DB_MAX_OUTPUT_PORT_TYPE
+Mux_REM <= inst.DB_MAX_OUTPUT_PORT_TYPE
+CK => ~NO_FANOUT~
+Rst => ~NO_FANOUT~
+
+

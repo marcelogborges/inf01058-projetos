@@ -1,6 +1,6 @@
 Assembler report for CONTA_A_DOR
-Thu Jun 29 14:45:13 2023
-Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Mon Jan 08 11:11:32 2024
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
 ---------------------
@@ -10,7 +10,7 @@ Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: C:/altera/CONTA_A_DOR/output_files/CONTA_A_DOR.sof
+  5. Assembler Device Options: C:/Users/marce/OneDrive/Área de Trabalho/Git/inf01058-projetos/Circuitos/LAB06/output_files/CONTA_A_DOR.sof
   6. Assembler Messages
 
 
@@ -37,7 +37,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Thu Jun 29 14:45:13 2023 ;
+; Assembler Status      ; Successful - Mon Jan 08 11:11:32 2024 ;
 ; Revision Name         ; CONTA_A_DOR                           ;
 ; Top-level Entity Name ; CONTA_A_DOR                           ;
 ; Family                ; Cyclone IV GX                         ;
@@ -77,24 +77,24 @@ applicable agreement for further details.
 +-----------------------------------------------------------------------------+----------+---------------+
 
 
-+----------------------------------------------------+
-; Assembler Generated Files                          ;
-+----------------------------------------------------+
-; File Name                                          ;
-+----------------------------------------------------+
-; C:/altera/CONTA_A_DOR/output_files/CONTA_A_DOR.sof ;
-+----------------------------------------------------+
++-------------------------------------------------------------------------------------------------------------+
+; Assembler Generated Files                                                                                   ;
++-------------------------------------------------------------------------------------------------------------+
+; File Name                                                                                                   ;
++-------------------------------------------------------------------------------------------------------------+
+; C:/Users/marce/OneDrive/Área de Trabalho/Git/inf01058-projetos/Circuitos/LAB06/output_files/CONTA_A_DOR.sof ;
++-------------------------------------------------------------------------------------------------------------+
 
 
-+------------------------------------------------------------------------------+
-; Assembler Device Options: C:/altera/CONTA_A_DOR/output_files/CONTA_A_DOR.sof ;
-+----------------+-------------------------------------------------------------+
-; Option         ; Setting                                                     ;
-+----------------+-------------------------------------------------------------+
-; Device         ; EP4CGX15BF14C6                                              ;
-; JTAG usercode  ; 0x000BFF8B                                                  ;
-; Checksum       ; 0x000BFF8B                                                  ;
-+----------------+-------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: C:/Users/marce/OneDrive/Área de Trabalho/Git/inf01058-projetos/Circuitos/LAB06/output_files/CONTA_A_DOR.sof ;
++----------------+----------------------------------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                                              ;
++----------------+----------------------------------------------------------------------------------------------------------------------+
+; Device         ; EP4CGX15BF14C6                                                                                                       ;
+; JTAG usercode  ; 0x000C00B2                                                                                                           ;
+; Checksum       ; 0x000C00B2                                                                                                           ;
++----------------+----------------------------------------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -102,15 +102,15 @@ applicable agreement for further details.
 +--------------------+
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Assembler
-    Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
-    Info: Processing started: Thu Jun 29 14:45:11 2023
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Mon Jan 08 11:11:31 2024
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off CONTA_A_DOR -c CONTA_A_DOR
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 489 megabytes
-    Info: Processing ended: Thu Jun 29 14:45:13 2023
-    Info: Elapsed time: 00:00:02
-    Info: Total CPU time (on all processors): 00:00:02
+    Info: Peak virtual memory: 4602 megabytes
+    Info: Processing ended: Mon Jan 08 11:11:32 2024
+    Info: Elapsed time: 00:00:01
+    Info: Total CPU time (on all processors): 00:00:01
 
 

@@ -1,6 +1,6 @@
 EDA Netlist Writer report for CONTA_A_DOR
-Thu Jun 29 14:45:52 2023
-Quartus II 64-Bit Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
+Mon Jan 08 11:11:36 2024
+Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
 
 
 ---------------------
@@ -36,7 +36,7 @@ applicable agreement for further details.
 +-------------------------------------------------------------------+
 ; EDA Netlist Writer Summary                                        ;
 +---------------------------+---------------------------------------+
-; EDA Netlist Writer Status ; Successful - Thu Jun 29 14:45:52 2023 ;
+; EDA Netlist Writer Status ; Successful - Mon Jan 08 11:11:36 2024 ;
 ; Revision Name             ; CONTA_A_DOR                           ;
 ; Top-level Entity Name     ; CONTA_A_DOR                           ;
 ; Family                    ; Cyclone IV GX                         ;
@@ -79,27 +79,14 @@ applicable agreement for further details.
 +-----------------------------+
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit EDA Netlist Writer
-    Info: Version 13.1.0 Build 162 10/23/2013 SJ Web Edition
-    Info: Copyright (C) 1991-2013 Altera Corporation. All rights reserved.
-    Info: Your use of Altera Corporation's design tools, logic functions 
-    Info: and other software and tools, and its AMPP partner logic 
-    Info: functions, and any output files from any of the foregoing 
-    Info: (including device programming or simulation files), and any 
-    Info: associated documentation or information are expressly subject 
-    Info: to the terms and conditions of the Altera Program License 
-    Info: Subscription Agreement, Altera MegaCore Function License 
-    Info: Agreement, or other applicable license agreement, including, 
-    Info: without limitation, that your use is for the sole purpose of 
-    Info: programming logic devices manufactured by Altera and sold by 
-    Info: Altera or its authorized distributors.  Please refer to the 
-    Info: applicable agreement for further details.
-    Info: Processing started: Thu Jun 29 14:45:51 2023
-Info: Command: quartus_eda --functional=on --flatten_buses=off --simulation=on --tool=modelsim_oem --format=verilog --output_directory=C:/altera/CONTA_A_DOR/simulation/qsim/ CONTA_A_DOR -c CONTA_A_DOR
+    Info: Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+    Info: Processing started: Mon Jan 08 11:11:36 2024
+Info: Command: quartus_eda --read_settings_files=off --write_settings_files=off CONTA_A_DOR -c CONTA_A_DOR
 Info (204019): Generated file CONTA_A_DOR.vo in folder "C:/altera/CONTA_A_DOR/simulation/qsim//" for EDA simulation tool
 Info: Quartus II 64-Bit EDA Netlist Writer was successful. 0 errors, 0 warnings
-    Info: Peak virtual memory: 452 megabytes
-    Info: Processing ended: Thu Jun 29 14:45:52 2023
-    Info: Elapsed time: 00:00:01
-    Info: Total CPU time (on all processors): 00:00:01
+    Info: Peak virtual memory: 4565 megabytes
+    Info: Processing ended: Mon Jan 08 11:11:36 2024
+    Info: Elapsed time: 00:00:00
+    Info: Total CPU time (on all processors): 00:00:00
 
 
